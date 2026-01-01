@@ -1,0 +1,5 @@
+2 1 1 4F4B 5
+1 0 0 some_text 1
+1 1 0 another_text 3
+2 5 1 4F4B -1
+2 5 1 4F4B 2
